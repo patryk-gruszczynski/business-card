@@ -25,9 +25,9 @@ body {
 }
 
 .person {
-display: flex;
-align-items: flex-start;
-}
+  display: flex;
+  align-items: flex-start;
+  }
 
 .person__name {
   font-size: 36px;
@@ -62,10 +62,6 @@ align-items: flex-start;
 .person__link {
   text-decoration: none;
   color: #e20613;
-}
-
-.person {
-    display: flex;
 }
 
 .person__picture {
